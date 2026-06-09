@@ -1,3 +1,7 @@
-name = "JuliaDH"
+name = "juliadh"
+uuid = "3afdfd98-3660-4dbd-a5d3-af31c5756917"
+version = "0.1.0"
+authors = ["Josselin Morvan", "Julien Dehut", "Emmanuel Château-Dutier"]
+
 [deps]
 Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
