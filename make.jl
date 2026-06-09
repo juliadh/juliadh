@@ -9,10 +9,10 @@ makedocs(;
     "JuliaDH" => "index.md"
   ],
   sitename = "JuliaDH",
-  repo = "https://github.com/juliadh/juliadh"
+  # repo = "https://github.com/juliadh/juliadh"
   #remotes=nothing
 )
 
-# deploydocs(
-#   repo = "https://github.com/juliadh/juliadh.git"
-# )
+deploydocs(
+  repo = "https://github.com/juliadh/juliadh.git"
+)
